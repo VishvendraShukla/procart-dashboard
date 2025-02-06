@@ -76,3 +76,17 @@ If you'd like to contribute or make changes to the project, follow these steps:
 - **ESLint**: A tool for identifying and fixing JavaScript code issues.
 - **Axios**: A promise-based HTTP client for making requests.
 - **Date-fns**: A library for working with dates in JavaScript.
+
+## Screenshots
+
+![ProCart Admin Dashboard Login](./src/assets/readme/Login-Screen.png)
+
+![ProCart Admin Dashboard](./src/assets/readme/Dashboard.png)
+
+![Currencies](./src/assets/readme/Currencies.png)
+
+![Products](./src/assets/readme/Products.png)
+
+![Users](./src/assets/readme/Users.png)
+
+![AuditLogs](./src/assets/readme/Audit-Logs.png)
